@@ -20,6 +20,22 @@ class Ordenacao:
                 i = lista[0]
             else:
                 continue
-        #percorrer para achar o próximo menor elemento
-        #percorrer a lista2 para encontrar o menor elemento
-        # adicionar na lista1     
+        return lista
+    
+    def insertion_sort(lista):
+        n =len(lista)
+        #adcionar o novo número na lista
+        #comparar números
+        #ordenar números
+        #refazer até completar o array
+
+    def merge_sort(lista):
+        #pegar a quantidade de itens da lista
+        #dividir por 2
+        #dividir lista1 por 2 até ter vários arrays com 2 númeor
+        #ordenar mini-arrays e rearmazenar
+        #fazer o mesmo com a lista 2
+        #unir listas
+
+    def quick_sort(lista):
+        
